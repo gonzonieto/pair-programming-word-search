@@ -1,23 +1,26 @@
 {
-  "name": "word-search",
+  "name": "pair-programming-word-search",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Word search pair programming challenge - W02D3 Lighthouse Labs Bootcamp",
+  "main": "wordsearch.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lighthouse-labs/pair-programming-word-search.git"
+    "url": "git+https://github.com/gonzonieto/pair-programming-word-search.git"
   },
-  "author": "",
+  "author": "Daria & Gonzo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lighthouse-labs/pair-programming-word-search/issues"
+    "url": "https://github.com/gonzonieto/pair-programming-word-search/issues"
   },
-  "homepage": "https://github.com/lighthouse-labs/pair-programming-word-search#readme",
+  "homepage": "https://github.com/gonzonieto/pair-programming-word-search#readme",
   "devDependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^7.1.1"
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
   }
 }
